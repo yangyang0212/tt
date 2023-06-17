@@ -11,7 +11,6 @@
         { "key": "(18+)富二代资源", "name": "(18+)富二代资源", "type": 0, "api": "http://f2dcj6.com/sapi/?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "博天堂", "name": "博天堂18x", "type": 0, "api": "http://bttcj.com/inc/sapi.php", "searchable": 0, "quickSearch": 1, "filterable": 0 },
         { "key": "鲨鱼18+", "name": "鲨鱼18+", "type": 0, "api": "https://shayuapi.com/api.php/Seacms/vod", "searchable": 0, "quickSearch": 1, "filterable": 0 },
-        { "key": "(18+)天堂福利", "name": "(18+)天堂福利", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "(18+)探探资源", "name": "(18+)探探资源", "type": 0, "api": "https://apittzy.com/api.php/provide/vod/at/xml", "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "(18+)利来资源", "name": "(18+)利来资源", "type": 0, "api": "http://llzxcj.com/inc/sck.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "(18+)字幕网", "name": "(18+)字幕网", "type": 0, "api": "http://zmcj88.com/sapi?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
