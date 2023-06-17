@@ -42,6 +42,7 @@
         {"key":"*CK资源","name":"*CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
         {"key":"*老鸭资源","name":"*老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
         {"key":"*久草资源","name":"*久草资源","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":0,"quickSearch":0}
+        {"key":"点点娱乐","name":"点点娱乐(切)","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":1,"quickSearch":1}
 ],
 
 # 直播
